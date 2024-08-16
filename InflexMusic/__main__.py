@@ -5,7 +5,7 @@ from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from InflexMusic import LOGGER, app, userbot
+from devuMusic import LOGGER, app, userbot
 from InflexMusic.core.call import Inflex
 from InflexMusic.misc import sudo
 from InflexMusic.plugins import ALL_MODULES
